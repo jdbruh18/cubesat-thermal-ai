@@ -1,0 +1,26 @@
+{
+  "features": [
+    "T_SP_obs",
+    "T_CH_obs",
+    "T_BAT_obs",
+    "T_EL_obs",
+    "dT_BAT_dt",
+    "dT_EL_dt",
+    "eclipse",
+    "sun",
+    "orbit_phase_sin",
+    "orbit_phase_cos",
+    "Q_solar_est",
+    "Q_internal_el",
+    "Q_internal_bat",
+    "heater_w",
+    "heater_recent_mean",
+    "time_in_sun_frac",
+    "beta_deg",
+    "eclipse_fraction",
+    "T_BAT_hist_mean",
+    "T_BAT_hist_min"
+  ],
+  "horizon_s": 600.0,
+  "dt": 5.0
+}
